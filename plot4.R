@@ -1,4 +1,4 @@
-##for generating plot3.png
+##for generating plot4.png
 
 datafile <- "household_power_consumption.txt"
 df <- read.table(datafile, 
